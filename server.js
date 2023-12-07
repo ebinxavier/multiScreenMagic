@@ -1,6 +1,13 @@
 const WebSocket = require("ws");
 const uuid = require("uuid");
+const express = require("express");
 
+const app = express();
+app.use(express.static("client"));
+
+app.listen(8080, () => {
+  console.log("Listening http server on port 8080");
+});
 // Create a WebSocket server on port 3000
 const wss = new WebSocket.Server({ port: 3000 });
 const clients = new Set();
