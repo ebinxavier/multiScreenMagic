@@ -19,10 +19,6 @@ This repository contains the code for a coding solution that went viral on Linke
 2. Do `npm install`, `npm start` and open the `http://localhost:8080` file in your preferred web browser.
 3. Explore and enjoy the multiple browser window-based animation!
 
-## Demo Screenshot
-
-![Demo Screenshot](./demo.png)
-
 ## Acknowledgments
 
 - Credits to the original creator for sharing the solution on Twitter.
