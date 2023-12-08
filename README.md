@@ -16,7 +16,7 @@ This repository contains the code for a coding solution that went viral on Linke
 ## How to Use
 
 1. Clone the repository to your local machine.
-2. Do `npm install` and open the `http://localhost:8080` file in your preferred web browser.
+2. Do `npm install`, `npm start` and open the `http://localhost:8080` file in your preferred web browser.
 3. Explore and enjoy the multiple browser window-based animation!
 
 ## Demo Screenshot
